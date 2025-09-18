@@ -95,3 +95,5 @@ firebase-debug.*.log
 # OS
 .DS_Store
 Thumbs.db
+
+firebase.js
